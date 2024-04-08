@@ -7,10 +7,10 @@ Software Developer
 As a creative programmer, I enjoy acquiring new skills and finding innovative solutions to various challenges. This motivates me to learn different programming languages. I have a strong knowledge of both front-end and back-end development,
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [My portifolio](http://(s)://hashim-abdrehman.web.app)
+* 🖥️  See my portfolio at [My portifolio](http://hashim-abdrehman.web.app)
 * ✉️  You can contact me at [hashimabdrehman@gmail.com](mailto:hashimabdrehman@gmail.com)
-* 🚀  I'm currently working on [Gym Management Web App](http://(s)://connect-fitness.web.app)
-* 🧠  I'm learning Angular
+* 🚀  I'm currently working on [Gym Management Web App](http://connect-fitness.web.app)
+* 🧠  I'm learning React
 * ⚡  I'm certified technician expertise in diagnosing and fixing issues with all major smartphone and computer brands. Whether it’s a cracked screen, a faulty battery, or a software glitch, I’ve got you covered.
 
 ### Skills
